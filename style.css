@@ -40,3 +40,102 @@ body {
         width: 80%;
     }
 }
+
+
+/* Css Animation for each individual Letters */
+/* NOTE: In this case of the svg path, the Text Path starts from the second child so we start with nth-child(2) */
+@keyframes line-animation {
+    to {
+        stroke-dashoffset: 0;
+    }
+}
+
+#preloader path:nth-child(2) {
+    stroke-dasharray: 656;
+    stroke-dashoffset: 656;
+    animation: line-animation 1.5s ease forwards;
+}
+
+#preloader path:nth-child(3) {
+    stroke-dasharray: 491;
+    stroke-dashoffset: 491;
+    animation: line-animation 1.5s ease forwards 0.1s;
+}
+
+#preloader path:nth-child(4) {
+    stroke-dasharray: 464;
+    stroke-dashoffset: 464;
+    animation: line-animation 1.5s ease forwards 0.3s;
+}
+
+#preloader path:nth-child(5) {
+    stroke-dasharray: 496;
+    stroke-dashoffset: 496;
+    animation: line-animation 2s ease forwards 0.5s;
+}
+
+#preloader path:nth-child(6) {
+    stroke-dasharray: 425;
+    stroke-dashoffset: 425;
+    animation: line-animation 1.5s ease forwards 0.7s;
+}
+
+#preloader path:nth-child(7) {
+    stroke-dasharray: 258;
+    stroke-dashoffset: 258;
+    animation: line-animation 1.5s ease forwards 0.9s;
+}
+
+#preloader path:nth-child(8) {
+    stroke-dasharray: 197;
+    stroke-dashoffset: 197;
+    animation: line-animation 1.5s ease forwards 1.1s;
+}
+
+#preloader path:nth-child(9) {
+    stroke-dasharray: 529;
+    stroke-dashoffset: 529;
+    animation: line-animation 1.5s ease forwards 1.3s;
+}
+
+#preloader path:nth-child(10) {
+    stroke-dasharray: 197;
+    stroke-dashoffset: 197;
+    animation: line-animation 1.5s ease forwards 1.5s;
+}
+
+#preloader path:nth-child(11) {
+    stroke-dasharray: 525;
+    stroke-dashoffset: 525;
+    animation: line-animation 1.5s ease forwards 1.7s;
+}
+
+#preloader path:nth-child(12) {
+    stroke-dasharray: 525;
+    stroke-dashoffset: 525;
+    animation: line-animation 1.5s ease forwards 1.9s;
+}
+
+#preloader path:nth-child(13) {
+    stroke-dasharray: 425;
+    stroke-dashoffset: 425;
+    animation: line-animation 1.5s ease forwards 2.1s;
+}
+
+#preloader path:nth-child(14) {
+    stroke-dasharray: 428;
+    stroke-dashoffset: 428;
+    animation: line-animation 1.5s ease forwards 2.3s;
+}
+
+#preloader path:nth-child(15) {
+    stroke-dasharray: 403;
+    stroke-dashoffset: 403;
+    animation: line-animation 2s ease forwards 2.5s;
+}
+
+#preloader path:nth-child(16) {
+    stroke-dasharray: 476;
+    stroke-dashoffset: 476;
+    animation: line-animation 1.5s ease forwards 2.7s;
+}
