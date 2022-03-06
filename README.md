@@ -10,6 +10,15 @@ This is a personal project where I Html, Css, JavaScript, & Figma to create a am
 <!-- Project Tech Stack -->
 # ![technologies-used (6)](https://user-images.githubusercontent.com/95453430/156934120-8e2d87f3-10e5-4e28-abe5-dcbc6b16d192.svg)
 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 <!-- How to Use -->
 # ![how-to-use-project (1)](https://user-images.githubusercontent.com/95453430/156934123-e672e639-77c2-4e23-9bfa-ca94a97c324c.svg)
+
+-  Click on the green **Code** at the top of this page and download the repository zip file.
+-  Extract the contents of the zip onto a folder accesable to you on your local machine.
+-  Open the folder, and click on the index.html file to run the project. (Google Chrome Recommended)
+-  Enjoy using the project!
