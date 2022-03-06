@@ -8,6 +8,11 @@
 # ![project-decription](https://user-images.githubusercontent.com/95453430/156934111-9f16aa43-7d4b-40f0-8ca8-a976339d47ca.svg)
 This project features a **Fading Transitional Animation** on a **SVG logo**(In this case my name) made using **Css Animations**. The **SVG** was designed using a tool called **Figma**.
 
+**Link to project Codepen below**
+
+<a href="https://codepen.io/mohdalibn"><img width="100" src="https://img.shields.io/badge/Codepen-black?&message=ViewProfile&style=for-the-badge&logo=codepen&logoColor=white"/></a>
+
+
 <!-- Project Tech Stack -->
 # ![technologies-used (6)](https://user-images.githubusercontent.com/95453430/156934120-8e2d87f3-10e5-4e28-abe5-dcbc6b16d192.svg)
 
