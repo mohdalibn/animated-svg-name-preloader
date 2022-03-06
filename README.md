@@ -2,6 +2,7 @@
 # ![animated-logo-svg-preloader (1)](https://user-images.githubusercontent.com/95453430/156934102-5c6610bb-5d60-4d3d-8107-5345d31d3428.svg)
 
 <!-- Project Image -->
+![AnimatedSvgPreloader](https://user-images.githubusercontent.com/95453430/156934734-dd529cec-9133-458e-a743-63d781e6e445.png)
 
 <!-- Project Description -->
 # ![project-decription](https://user-images.githubusercontent.com/95453430/156934111-9f16aa43-7d4b-40f0-8ca8-a976339d47ca.svg)
